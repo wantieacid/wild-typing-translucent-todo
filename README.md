@@ -2,7 +2,7 @@
 
 **透明底面，狂野打字**
 
-[![build](https://github.com/wantieacid/desk-todo/actions/workflows/build.yml/badge.svg)](https://github.com/wantieacid/desk-todo/actions/workflows/build.yml)
+[![build](https://github.com/wantieacid/wild-typing-translucent-todo/actions/workflows/build.yml/badge.svg)](https://github.com/wantieacid/wild-typing-translucent-todo/actions/workflows/build.yml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 一个贴在桌面上的半透明待办清单。底面是真透明——DWM 亚克力 + 圆角，桌面透过它看得见；打字是真狂野——每敲一个字都飞出来，回车落进清单时卡片砸一下、砸出一圈冲击波。双击就能用，不装任何东西。
@@ -24,7 +24,7 @@ Windows 上的待办小工具通常要么躲进托盘、要么一按就消失；
 
 ## 下载
 
-到 [Releases](https://github.com/wantieacid/desk-todo/releases) 下载，两个版本挑一个：
+到 [Releases](https://github.com/wantieacid/wild-typing-translucent-todo/releases) 下载，两个版本挑一个：
 
 | 文件 | 大小 | 说明 |
 | --- | --- | --- |
@@ -47,8 +47,8 @@ Windows 上的待办小工具通常要么躲进托盘、要么一按就消失；
 需要 [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)：
 
 ```powershell
-git clone https://github.com/wantieacid/desk-todo.git
-cd desk-todo
+git clone https://github.com/wantieacid/wild-typing-translucent-todo.git
+cd wild-typing-translucent-todo
 dotnet run
 ```
 

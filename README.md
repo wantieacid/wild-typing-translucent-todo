@@ -26,10 +26,10 @@ Windows 上的待办小工具通常要么躲进托盘、要么一按就消失；
 
 | 文件 | 大小 | 说明 |
 | --- | --- | --- |
-| `桌面清单.exe`（自包含） | 约 63 MB | 不装 .NET 也能直接跑，发给别人用这个 |
-| `桌面清单-轻量版.exe` | 约 0.2 MB | 需先装 [.NET 8 桌面运行时](https://dotnet.microsoft.com/download/dotnet/8.0)（x64） |
+| `DeskTodo-1.1.0-win-x64.exe` | 约 63 MB | 自包含单文件，不装 .NET 也能直接跑，发给别人用这个 |
+| `DeskTodo-1.1.0-win-x64-lite.exe` | 约 0.2 MB | 需先装 [.NET 8 桌面运行时](https://dotnet.microsoft.com/download/dotnet/8.0)（x64） |
 
-两个是同一个程序，数据、位置、行为完全一样，不要同时开。
+两个是同一个程序，数据、位置、行为完全一样，不要同时开。下载后可以随便改名，比如改成 `桌面清单.exe`。
 
 ## 使用
 

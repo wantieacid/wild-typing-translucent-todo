@@ -29,7 +29,7 @@ jobs:
       - name: Publish lite
         run: >
           dotnet publish DeskTodo.csproj -c Release -r win-x64 --self-contained false
-          -p:PublishSingleFile=true -p:EnableCompressionInSingleFile=true -p:DebugType=None
+          -p:PublishSingleFile=true -p:DebugType=None
           -o dist/lite
 
       - uses: actions/upload-artifact@v4

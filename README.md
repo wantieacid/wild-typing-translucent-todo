@@ -1,9 +1,11 @@
 # 桌面清单 · DeskTodo
 
+**透明底面，狂野打字**
+
 [![build](https://github.com/wantieacid/desk-todo/actions/workflows/build.yml/badge.svg)](https://github.com/wantieacid/desk-todo/actions/workflows/build.yml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-一个永远置顶的半透明待办清单。双击就能用，不装任何东西。
+一个贴在桌面上的半透明待办清单。底面是真透明——DWM 亚克力 + 圆角，桌面透过它看得见；打字是真狂野——每敲一个字都飞出来，回车落进清单时卡片砸一下、砸出一圈冲击波。双击就能用，不装任何东西。
 
 Windows 上的待办小工具通常要么躲进托盘、要么一按就消失；这个清单一直贴在桌面上，透明底、圆角、不挡视线，抬头就能看见今天还剩什么。
 

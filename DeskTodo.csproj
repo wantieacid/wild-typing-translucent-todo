@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>DeskTodo</RootNamespace>
+    <AssemblyName>DeskTodo</AssemblyName>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <Version>1.1.0</Version>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Product>桌面清单</Product>
+    <Company>桌面清单</Company>
+    <Description>置顶半透明待办清单</Description>
+    <Copyright>2026</Copyright>
+    <SatelliteResourceLanguages>zh-Hans</SatelliteResourceLanguages>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+</Project>

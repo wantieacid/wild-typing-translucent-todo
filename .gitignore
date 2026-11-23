@@ -1,0 +1,15 @@
+# 构建产物
+bin/
+obj/
+dist/
+build_check/
+*.user
+*.suo
+.vs/
+
+# 本地打包与归档（源码仓不收录二进制）
+版本/
+分享版/
+*.zip
+*.exe
+!tools/*.exe
